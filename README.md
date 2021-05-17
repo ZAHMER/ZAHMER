@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZAHMER :octopus:
-- 👀 I’m interested in Space Engineering, IOT and automation :)
+- 👀 I’m interested in Space Engineering, IoT and automation :)
 - 🌱 I’m currently learning Microcontroller programming 
 - 💞️ I’m looking to collaborate on Space related projects 
 - 📫 Contact me by mail: zaherzaul@gmail.com 
